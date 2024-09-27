@@ -30,4 +30,12 @@ This E-commerce application is built using Spring Boot and designed to provide a
 - **PostgreSQL**: Relational database management system for data storage.
 - **Maven**: Dependency management and build automation.
 
- 
+
+## Demo Video
+
+Check out the following video to see the application in action:
+
+[![E-commerce Application Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://drive.google.com/file/d/1KdA8-dBTys6vbiqqAkUIQ0ZKrFOq5twU/view?usp=sharing)
+
+To view the video, click the link above.
+

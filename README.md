@@ -1,8 +1,8 @@
-# E-commerce Application
+# E-commerce
 
 ## Overview
 
-This E-commerce application is built using Spring Boot and designed to provide a seamless online shopping experience. Users can browse products, manage their cart, place orders, and manage their profiles. Admins can manage products, orders, and user accounts, ensuring smooth operation of the platform.
+This E-commerce is built using Spring Boot and designed to provide a seamless online shopping experience. Users can browse products, manage their cart, place orders, and manage their profiles. Admins can manage products, orders, and user accounts, ensuring smooth operation of the platform.
 
 ## Features
 
